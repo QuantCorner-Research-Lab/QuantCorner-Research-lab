@@ -1,7 +1,6 @@
 ## Welcome to QuantCorner Reserach Laboratory👋
 
-
-![QuantCorner Research Laboratory Logo](https://github.com/QuantCorner-Research-Lab/QuantCorner-Research-lab/blob/main/qcr.png?raw=true)
+<img src="https://github.com/QuantCorner-Research-Lab/QuantCorner-Research-lab/blob/main/qcr.png" alt="QuantCorner Research Laboratory Logo" width="200"/>
 
 At QuantCorner Research Laboratory, we specialize in the cutting-edge field of Quantitative Finance, applying mathematical models, statistical techniques, and advanced computational methods to solve complex financial problems. Our lab focuses on research areas such as risk management, portfolio optimization, algorithmic trading, and financial derivatives pricing.
 
