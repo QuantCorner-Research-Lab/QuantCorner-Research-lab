@@ -8,4 +8,4 @@ Our mission is to bridge the gap between theoretical finance and practical appli
 
 Join us on this journey towards unlocking the future of finance with data, algorithms, and strategic thinking.
 
-<img src="https://github.com/QuantCorner-Research-Lab/QuantCorner-Research-lab/blob/main/qcr.png" alt="QuantCorner Research Laboratory Logo" width="300" align="right"/>
+<img src="https://github.com/QuantCorner-Research-Lab/QuantCorner-Research-lab/blob/main/qcr.png" alt="QuantCorner Research Laboratory Logo" width="500"/>
