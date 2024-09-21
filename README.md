@@ -1,4 +1,4 @@
-## Hi there 👋
+## Welcome to QuantCorner Reserach Laboratory👋
 
 <!--
 **QuantCorner-Research-Lab/QuantCorner-Research-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
